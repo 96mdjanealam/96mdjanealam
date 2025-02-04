@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.ibb.co.com/Vp5f1KdF/github-cover.jpg"  />
+  <img height="350" src="https://i.ibb.co.com/9kGs0kR5/github-cover-Nero-AI-Image-Compressor-High.jpg"  />
 </div>
 
 ###
