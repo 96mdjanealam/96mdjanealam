@@ -98,7 +98,7 @@
 ###
 
 
-<h2 align="center">📈 Statistics</h2>
+<h2 align="center">How to reach me</h2>
 <div align="center">
   - GitHub: [github.com/96mdjanealam](https://github.com/96mdjanealam)  
   - Email: 96mdjanealam@gmail.com  
