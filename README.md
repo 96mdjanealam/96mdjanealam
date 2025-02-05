@@ -100,7 +100,9 @@
 
 <h2 align="center">How to reach me</h2>
 <div align="center">
+  <p>
   - GitHub: [github.com/96mdjanealam](https://github.com/96mdjanealam)  
   - Email: 96mdjanealam@gmail.com  
   - LinkedIn: [linkedin.com/in/96mdjanealam](https://www.linkedin.com/in/96mdjanealam/) 
+  </p>
 </div>
