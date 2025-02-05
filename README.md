@@ -97,14 +97,7 @@
 
 ###
 
-
-
-Here’s a properly formatted GitHub README snippet using Markdown:
-
-md
-Copy
-Edit
-## 📬 How to Reach Me  
+<h2 align="center">📬 How to Reach Me </h2>
 
 <p align="center">
   <a href="https://github.com/96mdjanealam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
