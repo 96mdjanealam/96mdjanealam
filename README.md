@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h2 align="center">⚙️ Tools I Use</h2>
+<h2 align="center">⚙️ Tools I use</h2>
 
 ###
 
