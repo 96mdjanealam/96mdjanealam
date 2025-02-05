@@ -97,6 +97,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">📬 How to Reach Me </h2>
 
 <p align="center">
