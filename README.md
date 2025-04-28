@@ -72,9 +72,9 @@
 
 <h2 align="center">🚀 Current Activities</h2>
 
-- 🔥 Exploring **Next.js** and improving my React skills.  
-- 🏗️ Building a **AutoTuning** website with interactive UI and dynamic content.  
-- 📚 Learning advanced **JavaScript concepts** and best practices.
+- 🔥 Exploring **Next.js** and other advanced tools.  
+- 🏗️ Building an **E-commerce** website with interactive UI and dynamic content.  
+- 📚 Learning advanced **TypeScript concepts** and best practices.
 - 🚶‍♂️ Fun fact: Walking helps me brainstorm new features for my projects… or just think about pizza.
 
 <br clear="both">
