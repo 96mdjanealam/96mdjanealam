@@ -73,8 +73,8 @@
 <h2 align="center">🚀 Current Activities</h2>
 
 - 🔥 Exploring **Next.js** and other advanced tools.  
-- 🏗️ Building an **E-commerce** website with interactive UI and dynamic content.  
-- 📚 Learning advanced **TypeScript concepts** and best practices.
+- 🏗️ Building an **Tour Management** web app with interactive UI and dynamic content.  
+- 📚 Learning advanced **backend concepts** and best practices in Node.js.
 - 🚶‍♂️ Fun fact: Walking helps me brainstorm new features for my projects… or just think about pizza.
 
 <br clear="both">
