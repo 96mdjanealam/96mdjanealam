@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="center">I aim to continually enhance my technical expertise by building impactful projects. I am committed to optimizing both front-end user experiences and back-end performance. Eager to contribute to innovative projects, I seek opportunities to collaborate in dynamic environments that allow me to grow and make meaningful contributions in the web development space.</p>
+<p align="center">I strive to continually deepen my technical expertise by building impactful, high-quality projects. I focus on optimizing front-end experiences while ensuring robust and efficient back-end systems. Passionate about innovation, I enjoy collaborating on complex challenges and creating solutions that make a meaningful impact in the web development space.</p>
 
 ###
 
@@ -81,10 +81,11 @@
 
 <h2 align="center">🚀 Current Activities</h2>
 
-- 🔥 Exploring **Next.js** and other advanced tools.  
-- 🏗️ Building an **Tour Management** web app with interactive UI and dynamic content.  
-- 📚 Learning advanced **backend concepts** and best practices in Node.js.
-- 🚶‍♂️ Fun fact: Walking helps me brainstorm new features for my projects… or just think about pizza.
+🏗️ Developing backend systems and database efficiency.
+🔥 Building / experimenting with Next.js and other modern tools (e.g. Tanstack Start).
+🌱 Exploring AI tools, new tech trends, and innovative problem-solving approaches.
+🚶‍♂️ Taking long walks—sometimes the best ideas happen outside the screen.
+📚 Diving into books, podcasts, and projects that spark curiosity.
 
 <br clear="both">
 
