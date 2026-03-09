@@ -81,11 +81,11 @@
 
 <h2 align="center">🚀 Current Activities</h2>
 
-🏗️ Developing backend systems and database efficiency.
-🔥 Building / experimenting with Next.js and other modern tools (e.g. Tanstack Start).
-🌱 Exploring AI tools, new tech trends, and innovative problem-solving approaches.
-🚶‍♂️ Taking long walks—sometimes the best ideas happen outside the screen.
-📚 Diving into books, podcasts, and projects that spark curiosity.
+<p>🏗️ Developing backend systems and database efficiency.</p>
+<p>🔥 Building / experimenting with Next.js and other modern tools (e.g. Tanstack Start).</p>
+<p>🌱 Exploring AI tools, new tech trends, and innovative problem-solving approaches.</p>
+<p>🚶‍♂️ Taking long walks—sometimes the best ideas happen outside the screen.</p>
+<p>📚 Diving into books, podcasts, and projects that spark curiosity.</p>
 
 <br clear="both">
 
